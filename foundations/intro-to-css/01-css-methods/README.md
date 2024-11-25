@@ -5,7 +5,7 @@ There are three elements for you to add styles to, each of which uses a differen
 
 > ## Quick tip:
 > Do not worry about details in these exercises that are not specifically mentioned in the exercise or self check section. Because the desired outcomes are screenshots, your browser may show a different font, the colors may appear different on your machine, or the spacing between elements may look different. Only concern yourself with the specific items you are supposed to be learning for each exercise.
-
+ 
 The properties you need to add to each element are:
 
 * `div`: a red background, white text, a font size of 32px, center aligned, and bold
@@ -17,8 +17,8 @@ The properties you need to add to each element are:
 
 
 ### Self Check
-- Did you use all three methods of adding CSS to an HTML file?
-- Did you properly link the external CSS file in the HTML file?
-- Does the `div` element have CSS added via the external method?
-- Does the `p` element have CSS added via the internal method?
-- Does the `button` element have CSS added via the inline method?
+- [x] Did you use all three methods of adding CSS to an HTML file?
+- [x] Did you properly link the external CSS file in the HTML file?
+- [x] Does the `div` element have CSS added via the external method?
+- [x] Does the `p` element have CSS added via the internal method?
+- [x] Does the `button` element have CSS added via the inline method?
